@@ -1,5 +1,7 @@
 # Workshop Webdesigner
 
+_By Léonard Flachs_
+
 This workshop is for Wild Code School Web Designer. We are covering the basics of JavaScript and manipulation of the DOM.
 
 ## Workshop 01
